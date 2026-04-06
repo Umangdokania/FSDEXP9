@@ -22,15 +22,8 @@ A simple and secure **JWT (JSON Web Token) Authentication System** built using *
 
  ### Project Structure
 
-src/main/java/com/aml3B/DEMO_JWT/
-│
-├── config        # Security configuration
-├── controller    # API endpoints
-├── model         # Entity classes
-├── repository    # Database access layer
-├── security      # JWT utilities
-├── service       # Business logic
-└── DemoJwtApplication.java
+ <img width="344" height="193" alt="Screenshot 2026-04-06 at 12 54 31 PM" src="https://github.com/user-attachments/assets/55f2fd0b-fcaa-4513-b852-4467df75b426" />
+
 
  Setup Instructions
 
